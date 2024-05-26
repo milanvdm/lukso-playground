@@ -1,1 +1,1 @@
-This directory is needed for Fleek
+This `dist` directory is needed for Fleek
